@@ -1,6 +1,6 @@
 ## Hallucination Improves the Performance of Unsupervised Visual Representation Learning (ICCV2023)
 
-<img src="demo.jpeg" width="750" height="900">
+<img src="demo.jpeg" width="700" height="800">
 
 
 
